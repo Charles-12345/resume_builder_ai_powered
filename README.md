@@ -68,3 +68,5 @@ resume_builder_ai_powered/
 │  └─ analytics.py                 # Logging + DB events (optional)
 ├─ generated_documents/            # Output folder (auto-created)
 └─ requirements.txt
+
+I enjoyeed working on this project alone. There was no collaborator.
